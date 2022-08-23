@@ -1,0 +1,22 @@
+C:\Users\Ryzen 5\source\repos\Etapa 2 - Katerine Ipuz Lopez\Etapa 2 - Katerine Ipuz Lopez\bin\Debug\Etapa 2 - Katerine Ipuz Lopez.exe.config
+C:\Users\Ryzen 5\source\repos\Etapa 2 - Katerine Ipuz Lopez\Etapa 2 - Katerine Ipuz Lopez\bin\Debug\Etapa 2 - Katerine Ipuz Lopez.exe
+C:\Users\Ryzen 5\source\repos\Etapa 2 - Katerine Ipuz Lopez\Etapa 2 - Katerine Ipuz Lopez\bin\Debug\Etapa 2 - Katerine Ipuz Lopez.pdb
+C:\Users\Ryzen 5\source\repos\Etapa 2 - Katerine Ipuz Lopez\Etapa 2 - Katerine Ipuz Lopez\obj\Debug\Etapa 2 - Katerine Ipuz Lopez.csprojAssemblyReference.cache
+C:\Users\Ryzen 5\source\repos\Etapa 2 - Katerine Ipuz Lopez\Etapa 2 - Katerine Ipuz Lopez\obj\Debug\Etapa_2___Katerine_Ipuz_Lopez.Simulador_AwVillas.resources
+C:\Users\Ryzen 5\source\repos\Etapa 2 - Katerine Ipuz Lopez\Etapa 2 - Katerine Ipuz Lopez\obj\Debug\Etapa_2___Katerine_Ipuz_Lopez.Properties.Resources.resources
+C:\Users\Ryzen 5\source\repos\Etapa 2 - Katerine Ipuz Lopez\Etapa 2 - Katerine Ipuz Lopez\obj\Debug\Etapa 2 - Katerine Ipuz Lopez.csproj.GenerateResource.cache
+C:\Users\Ryzen 5\source\repos\Etapa 2 - Katerine Ipuz Lopez\Etapa 2 - Katerine Ipuz Lopez\obj\Debug\Etapa 2 - Katerine Ipuz Lopez.exe
+C:\Users\Ryzen 5\source\repos\Etapa 2 - Katerine Ipuz Lopez\Etapa 2 - Katerine Ipuz Lopez\obj\Debug\Etapa 2 - Katerine Ipuz Lopez.pdb
+C:\Users\Ryzen 5\source\repos\Etapa 2 - Katerine Ipuz Lopez\Etapa 2 - Katerine Ipuz Lopez\obj\Debug\Etapa_2___Katerine_Ipuz_Lopez.Ingreso_de_la_App.resources
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 2 - Katerine Ipuz Lopez\Etapa 2 - Katerine Ipuz Lopez\bin\Debug\Etapa 2 - Katerine Ipuz Lopez.exe.config
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 2 - Katerine Ipuz Lopez\Etapa 2 - Katerine Ipuz Lopez\bin\Debug\Etapa 2 - Katerine Ipuz Lopez.exe
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 2 - Katerine Ipuz Lopez\Etapa 2 - Katerine Ipuz Lopez\bin\Debug\Etapa 2 - Katerine Ipuz Lopez.pdb
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 2 - Katerine Ipuz Lopez\Etapa 2 - Katerine Ipuz Lopez\obj\Debug\Etapa 2 - Katerine Ipuz Lopez.csproj.AssemblyReference.cache
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 2 - Katerine Ipuz Lopez\Etapa 2 - Katerine Ipuz Lopez\obj\Debug\Etapa 2 - Katerine Ipuz Lopez.csproj.SuggestedBindingRedirects.cache
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 2 - Katerine Ipuz Lopez\Etapa 2 - Katerine Ipuz Lopez\obj\Debug\Etapa_2___Katerine_Ipuz_Lopez.Simulador_AwVillas.resources
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 2 - Katerine Ipuz Lopez\Etapa 2 - Katerine Ipuz Lopez\obj\Debug\Etapa_2___Katerine_Ipuz_Lopez.Ingreso_de_la_App.resources
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 2 - Katerine Ipuz Lopez\Etapa 2 - Katerine Ipuz Lopez\obj\Debug\Etapa_2___Katerine_Ipuz_Lopez.Properties.Resources.resources
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 2 - Katerine Ipuz Lopez\Etapa 2 - Katerine Ipuz Lopez\obj\Debug\Etapa 2 - Katerine Ipuz Lopez.csproj.GenerateResource.cache
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 2 - Katerine Ipuz Lopez\Etapa 2 - Katerine Ipuz Lopez\obj\Debug\Etapa 2 - Katerine Ipuz Lopez.csproj.CoreCompileInputs.cache
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 2 - Katerine Ipuz Lopez\Etapa 2 - Katerine Ipuz Lopez\obj\Debug\Etapa 2 - Katerine Ipuz Lopez.exe
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 2 - Katerine Ipuz Lopez\Etapa 2 - Katerine Ipuz Lopez\obj\Debug\Etapa 2 - Katerine Ipuz Lopez.pdb

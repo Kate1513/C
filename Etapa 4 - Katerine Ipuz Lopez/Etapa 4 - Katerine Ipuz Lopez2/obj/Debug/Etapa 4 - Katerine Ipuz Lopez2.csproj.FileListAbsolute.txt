@@ -1,0 +1,12 @@
+C:\Users\Ryzen 5\source\repos\Etapa 4 - Katerine Ipuz Lopez2\Etapa 4 - Katerine Ipuz Lopez2\bin\Debug\Etapa 4 - Katerine Ipuz Lopez2.exe.config
+C:\Users\Ryzen 5\source\repos\Etapa 4 - Katerine Ipuz Lopez2\Etapa 4 - Katerine Ipuz Lopez2\bin\Debug\Etapa 4 - Katerine Ipuz Lopez2.exe
+C:\Users\Ryzen 5\source\repos\Etapa 4 - Katerine Ipuz Lopez2\Etapa 4 - Katerine Ipuz Lopez2\bin\Debug\Etapa 4 - Katerine Ipuz Lopez2.pdb
+C:\Users\Ryzen 5\source\repos\Etapa 4 - Katerine Ipuz Lopez2\Etapa 4 - Katerine Ipuz Lopez2\obj\Debug\Etapa 4 - Katerine Ipuz Lopez2.csprojAssemblyReference.cache
+C:\Users\Ryzen 5\source\repos\Etapa 4 - Katerine Ipuz Lopez2\Etapa 4 - Katerine Ipuz Lopez2\obj\Debug\Etapa_4___Katerine_Ipuz_Lopez2.Inicio.resources
+C:\Users\Ryzen 5\source\repos\Etapa 4 - Katerine Ipuz Lopez2\Etapa 4 - Katerine Ipuz Lopez2\obj\Debug\Etapa_4___Katerine_Ipuz_Lopez2.Menu_De_Acceso.resources
+C:\Users\Ryzen 5\source\repos\Etapa 4 - Katerine Ipuz Lopez2\Etapa 4 - Katerine Ipuz Lopez2\obj\Debug\Etapa_4___Katerine_Ipuz_Lopez2.Properties.Resources.resources
+C:\Users\Ryzen 5\source\repos\Etapa 4 - Katerine Ipuz Lopez2\Etapa 4 - Katerine Ipuz Lopez2\obj\Debug\Etapa 4 - Katerine Ipuz Lopez2.csproj.GenerateResource.cache
+C:\Users\Ryzen 5\source\repos\Etapa 4 - Katerine Ipuz Lopez2\Etapa 4 - Katerine Ipuz Lopez2\obj\Debug\Etapa 4 - Katerine Ipuz Lopez2.exe
+C:\Users\Ryzen 5\source\repos\Etapa 4 - Katerine Ipuz Lopez2\Etapa 4 - Katerine Ipuz Lopez2\obj\Debug\Etapa 4 - Katerine Ipuz Lopez2.pdb
+C:\Users\Ryzen 5\source\repos\Etapa 4 - Katerine Ipuz Lopez2\Etapa 4 - Katerine Ipuz Lopez2\obj\Debug\Etapa_4___Katerine_Ipuz_Lopez2.Escenario_1_Op_1.resources
+C:\Users\Ryzen 5\source\repos\Etapa 4 - Katerine Ipuz Lopez2\Etapa 4 - Katerine Ipuz Lopez2\obj\Debug\Etapa_4___Katerine_Ipuz_Lopez2.Escenario_2_Op_2.resources

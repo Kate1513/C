@@ -1,0 +1,41 @@
+C:\Users\Ryzen 5\source\repos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\bin\Debug\Etapa 3 - Katerine Ipuz Lopez.exe.config
+C:\Users\Ryzen 5\source\repos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\bin\Debug\Etapa 3 - Katerine Ipuz Lopez.exe
+C:\Users\Ryzen 5\source\repos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\bin\Debug\Etapa 3 - Katerine Ipuz Lopez.pdb
+C:\Users\Ryzen 5\source\repos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa 3 - Katerine Ipuz Lopez.csprojAssemblyReference.cache
+C:\Users\Ryzen 5\source\repos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa_3___Katerine_Ipuz_Lopez.Cola___Etapa_3.resources
+C:\Users\Ryzen 5\source\repos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa_3___Katerine_Ipuz_Lopez.Formulario_De_Ingreso.resources
+C:\Users\Ryzen 5\source\repos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa_3___Katerine_Ipuz_Lopez.Properties.Resources.resources
+C:\Users\Ryzen 5\source\repos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa 3 - Katerine Ipuz Lopez.csproj.GenerateResource.cache
+C:\Users\Ryzen 5\source\repos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa 3 - Katerine Ipuz Lopez.exe
+C:\Users\Ryzen 5\source\repos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa 3 - Katerine Ipuz Lopez.pdb
+C:\Users\Ryzen 5\source\repos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa_3___Katerine_Ipuz_Lopez.Menu_de_Acceso.resources
+C:\Users\Ryzen 5\source\repos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa_3___Katerine_Ipuz_Lopez.Pila___Etapa_3.resources
+C:\Users\Ryzen 5\source\repos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa_3___Katerine_Ipuz_Lopez.Lista___Etapa_3.resources
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\bin\Debug\Etapa 3 - Katerine Ipuz Lopez.exe.config
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\bin\Debug\Etapa 3 - Katerine Ipuz Lopez.exe
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\bin\Debug\Etapa 3 - Katerine Ipuz Lopez.pdb
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa 3 - Katerine Ipuz Lopez.csprojAssemblyReference.cache
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa_3___Katerine_Ipuz_Lopez.Cola___Etapa_3.resources
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa_3___Katerine_Ipuz_Lopez.Formulario_De_Ingreso.resources
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa_3___Katerine_Ipuz_Lopez.Lista___Etapa_3.resources
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa_3___Katerine_Ipuz_Lopez.Menu_de_Acceso.resources
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa_3___Katerine_Ipuz_Lopez.Pila___Etapa_3.resources
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa_3___Katerine_Ipuz_Lopez.Properties.Resources.resources
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa 3 - Katerine Ipuz Lopez.csproj.GenerateResource.cache
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa 3 - Katerine Ipuz Lopez.exe
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa 3 - Katerine Ipuz Lopez.pdb
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\bin\Debug\Etapa 3 - Katerine Ipuz Lopez.exe.config
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\bin\Debug\Etapa 3 - Katerine Ipuz Lopez.exe
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\bin\Debug\Etapa 3 - Katerine Ipuz Lopez.pdb
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa 3 - Katerine Ipuz Lopez.csproj.AssemblyReference.cache
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa 3 - Katerine Ipuz Lopez.csproj.SuggestedBindingRedirects.cache
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa_3___Katerine_Ipuz_Lopez.Cola___Etapa_3.resources
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa_3___Katerine_Ipuz_Lopez.Formulario_De_Ingreso.resources
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa_3___Katerine_Ipuz_Lopez.Lista___Etapa_3.resources
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa_3___Katerine_Ipuz_Lopez.Menu_de_Acceso.resources
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa_3___Katerine_Ipuz_Lopez.Pila___Etapa_3.resources
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa_3___Katerine_Ipuz_Lopez.Properties.Resources.resources
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa 3 - Katerine Ipuz Lopez.csproj.GenerateResource.cache
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa 3 - Katerine Ipuz Lopez.csproj.CoreCompileInputs.cache
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa 3 - Katerine Ipuz Lopez.exe
+D:\Plataformas\Oracle-ONE\Proyecto_C#-Estructura_de_datos\Etapa 3 - Katerine Ipuz Lopez\Etapa 3 - Katerine Ipuz Lopez\obj\Debug\Etapa 3 - Katerine Ipuz Lopez.pdb
