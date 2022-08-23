@@ -1,0 +1,29 @@
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Consolidado_Grupo_ 301305_24\Consolidado_Grupo_ 301305_24\bin\Debug\Consolidado_Grupo_ 301305_24.exe.config
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Consolidado_Grupo_ 301305_24\Consolidado_Grupo_ 301305_24\bin\Debug\Consolidado_Grupo_ 301305_24.exe
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Consolidado_Grupo_ 301305_24\Consolidado_Grupo_ 301305_24\bin\Debug\Consolidado_Grupo_ 301305_24.pdb
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Consolidado_Grupo_ 301305_24\Consolidado_Grupo_ 301305_24\bin\Debug\Etapa 2 - Katerine Ipuz Lopez.exe
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Consolidado_Grupo_ 301305_24\Consolidado_Grupo_ 301305_24\bin\Debug\Etapa 3 - Katerine Ipuz Lopez.exe
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Consolidado_Grupo_ 301305_24\Consolidado_Grupo_ 301305_24\bin\Debug\Etapa 4 - Katerine Ipuz Lopez2.exe
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Consolidado_Grupo_ 301305_24\Consolidado_Grupo_ 301305_24\bin\Debug\Etapa 2 - Katerine Ipuz Lopez.pdb
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Consolidado_Grupo_ 301305_24\Consolidado_Grupo_ 301305_24\bin\Debug\Etapa 2 - Katerine Ipuz Lopez.exe.config
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Consolidado_Grupo_ 301305_24\Consolidado_Grupo_ 301305_24\bin\Debug\Etapa 3 - Katerine Ipuz Lopez.pdb
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Consolidado_Grupo_ 301305_24\Consolidado_Grupo_ 301305_24\bin\Debug\Etapa 3 - Katerine Ipuz Lopez.exe.config
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Consolidado_Grupo_ 301305_24\Consolidado_Grupo_ 301305_24\bin\Debug\Etapa 4 - Katerine Ipuz Lopez2.pdb
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Consolidado_Grupo_ 301305_24\Consolidado_Grupo_ 301305_24\bin\Debug\Etapa 4 - Katerine Ipuz Lopez2.exe.config
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Consolidado_Grupo_ 301305_24\Consolidado_Grupo_ 301305_24\obj\Debug\Consolidado_Grupo_ 301305_24.csprojAssemblyReference.cache
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Consolidado_Grupo_ 301305_24\Consolidado_Grupo_ 301305_24\obj\Debug\Consolidado_Grupo__301305_24.Ingreso.resources
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Consolidado_Grupo_ 301305_24\Consolidado_Grupo_ 301305_24\obj\Debug\Consolidado_Grupo__301305_24.Menu_Final.resources
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Consolidado_Grupo_ 301305_24\Consolidado_Grupo_ 301305_24\obj\Debug\Consolidado_Grupo__301305_24.Properties.Resources.resources
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Consolidado_Grupo_ 301305_24\Consolidado_Grupo_ 301305_24\obj\Debug\Consolidado_Grupo_ 301305_24.csproj.GenerateResource.cache
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Consolidado_Grupo_ 301305_24\Consolidado_Grupo_ 301305_24\obj\Debug\Consolidado_Grupo_ 301305_24.csproj.CopyComplete
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Consolidado_Grupo_ 301305_24\Consolidado_Grupo_ 301305_24\obj\Debug\Consolidado_Grupo_ 301305_24.exe
+D:\Katerine\U - Ingenieria de Sistemas\4 Cuarto Semestre\Estructura de Datos\Final\Consolidado - Evaluacion Final\Consolidado_Grupo_ 301305_24\Consolidado_Grupo_ 301305_24\obj\Debug\Consolidado_Grupo_ 301305_24.pdb
+D:\Plataformas\Oracle-ONE\Trabajo_Final-Estructura_de_datos\Consolidado_Grupo_ 301305_24\obj\Debug\Consolidado_Grupo_ 301305_24.csproj.AssemblyReference.cache
+D:\Plataformas\Oracle-ONE\Trabajo_Final-Estructura_de_datos\Consolidado_Grupo_ 301305_24\obj\Debug\Consolidado_Grupo_ 301305_24.csproj.SuggestedBindingRedirects.cache
+D:\Plataformas\Oracle-ONE\Trabajo_Final-Estructura_de_datos\Consolidado_Grupo_ 301305_24\obj\Debug\Consolidado_Grupo__301305_24.Ingreso.resources
+D:\Plataformas\Oracle-ONE\Trabajo_Final-Estructura_de_datos\Consolidado_Grupo_ 301305_24\obj\Debug\Consolidado_Grupo__301305_24.Menu_Final.resources
+D:\Plataformas\Oracle-ONE\Trabajo_Final-Estructura_de_datos\Consolidado_Grupo_ 301305_24\obj\Debug\Consolidado_Grupo__301305_24.Properties.Resources.resources
+D:\Plataformas\Oracle-ONE\Trabajo_Final-Estructura_de_datos\Consolidado_Grupo_ 301305_24\obj\Debug\Consolidado_Grupo_ 301305_24.csproj.GenerateResource.cache
+D:\Plataformas\Oracle-ONE\Trabajo_Final-Estructura_de_datos\Consolidado_Grupo_ 301305_24\obj\Debug\Consolidado_Grupo_ 301305_24.csproj.CoreCompileInputs.cache
+D:\Plataformas\Oracle-ONE\Trabajo_Final-Estructura_de_datos\Consolidado_Grupo_ 301305_24\obj\Debug\Consolidado_Grupo_ 301305_24.exe
+D:\Plataformas\Oracle-ONE\Trabajo_Final-Estructura_de_datos\Consolidado_Grupo_ 301305_24\obj\Debug\Consolidado_Grupo_ 301305_24.pdb
